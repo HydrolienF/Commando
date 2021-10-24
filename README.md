@@ -98,7 +98,7 @@ Please give credit to the original author and provide a link to the original sou
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://discord.com/widget?id=841327974229213224&theme=dark")][discord]
+[![discord](https://discordapp.com/api/guilds/841327974229213224/embed.png?style=banner3")][discord]
 
 ---
 
