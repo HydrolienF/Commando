@@ -20,10 +20,10 @@ You can download from [GitHub Releases](https://github.com/Zuygui/Commando/relea
 
 #### Latest Release
 
-[![](https://img.shields.io/github/v/release/Zuygui/Commando?include_prereleases&style=for-the-badge)](https://github.com/Zuygui/Commando/releases/latest)
+[![](https://img.shields.io/github/v/release/Zuygui/Commando?&style=for-the-badge)](https://github.com/Zuygui/Commando/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/v/release/Zuygui/Commando?include_prereleases)](https://github.com/Zuygui/Commando/releases)
+[![](https://img.shields.io/github/v/release/Zuygui/Commando?include_prereleases&style=for-the-badge)](https://github.com/Zuygui/Commando/releases)
 
 **Supported Platforms**
 
