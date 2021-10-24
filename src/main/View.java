@@ -13,6 +13,7 @@ public class View extends javax.swing.JFrame {
         initComponents();
         setTitle("Commando - Beta");
         setSize(800, 600);
+        setResizable(false);
         setLocationRelativeTo(null);
         viewCanvas.requestFocus();
         viewCanvas.init();
