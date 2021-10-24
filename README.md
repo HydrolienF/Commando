@@ -2,7 +2,7 @@
 
 <h1 align="center">Commando</h1>
 
-<em><h5 align="center">(from Scracth Java vdeo game)</h5></em>
+<em><h5 align="center">(from Scratch Java vdeo game)</h5></em>
 
 [<img align="center" src="https://img.shields.io/github/downloads/Zuygui/Commando/total?style=for-the-badge">](https://github.com/Zuygui/Commando/releases)
 
