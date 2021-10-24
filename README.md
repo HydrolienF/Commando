@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(from Scracth Java vdeo game)</h5></em>
 
-[<p align="center"></p>][<img src="https://img.shields.io/github/downloads/Zuygui/Commando/total?style=for-the-badge">](https://github.com/Zuygui/Commando/releases)
+[<img align="center" src="https://img.shields.io/github/downloads/Zuygui/Commando/total?style=for-the-badge">](https://github.com/Zuygui/Commando/releases)
 
 <p align="center">Survive to an invasion of zombies !</p>
 
@@ -95,10 +95,10 @@ Please give credit to the original author and provide a link to the original sou
 ## Resources
 
 * [Wiki][wiki]
-* 
+
 The best way to contact the developers is on Discord.
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord](https://discord.com/widget?id=841327974229213224&theme=dark")][discord]
 
 ---
 
@@ -109,5 +109,5 @@ The best way to contact the developers is on Discord.
 [vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
 [eclipse]: https://eclipse.org 'Eclipse'
 [IntelliJ]: https://jetbrains.com/ 'IntelliJ Idea'
-[discord]: https://discord.gg/zNWUXdt 'Discord'
+[discord]: https://discord.gg/mN8hw84MDJ 'Discord'
 [wiki]: https://github.com/Zuygui/Commando/wiki 'wiki'
