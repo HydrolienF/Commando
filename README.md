@@ -32,10 +32,13 @@ If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/re
 |  Platform   |       File     |
 | ------------| ---------------|
 | Windows x64 | `Commando.jar` |
+| Windows x32 | `Commando.jar` |
 | macOS x64   | `Commando.jar` |
 | macOS arm64 | `Commando.jar` |
 | Linux x64   | `Commando.jar` |
-
+| Linux x32   | `Commando.jar` |
+| Linux arm64 | `Commando.jar` |
+| Linux arm32 | `Commando.jar` |
 
 ## Development
 
@@ -78,9 +81,11 @@ Build for a specific platform.
 
 | Platform    | Command               |
 | ----------- | ----------------------|
-| Windows x64 | `javac ./Commando/`   |
+| Windows     | `javac ./Commando/`   |
 | macOS       | `javac ./Commando/`   |
-| Linux x64   | `javac ./Commando/`   |
+| Linux       | `javac ./Commando/`   |
+| Linux arm   | `javac ./Commando/`   |
+
 
 Builds for macOS may not work on Windows/Linux and vice-versa.
 
