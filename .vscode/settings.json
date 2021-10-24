@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/home/maxime/Téléchargements/java-discord-rpc-2.0.1.jar"
+  ]
+}
